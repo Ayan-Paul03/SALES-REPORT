@@ -36,18 +36,4 @@ The analysis covers several critical business dimensions:
 
 
 
-## 📖 How to Use
 
-1. **Clone the Repository**:
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-
-```
-
-
-2. **Open the Report**: Ensure you have [Power BI Desktop](https://powerbi.microsoft.com/desktop/) installed. Open the `Sales and Marketing Sample PBIX.pbix` file.
-3. **Interact**: Use the slicers (e.g., Year, Region, Segment) to filter the data and explore different insights.
-
----
-
-Note: This report is based on a sample dataset provided by Microsoft for demonstrating Power BI capabilities.
